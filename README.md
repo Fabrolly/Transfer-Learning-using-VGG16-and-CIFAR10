@@ -1,5 +1,4 @@
-# Assignment 4
-Transfer Learning using VGG16 and CIFAR
+# Transfer Learning using VGG16 and CIFAR
 
 ATTENZIONE: Questo README é una conversione automatica del file "report.pdf" che é formattato in modo migliore e contiene immagini di esempio! Leggi quello!
 
